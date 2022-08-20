@@ -5,6 +5,10 @@
 ### Software :
 
  - <a href="https://developer.android.com/studio" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/150/000000/android-studio--v3.png" height="30" width="30" />&nbsp;&nbsp;&nbsp;Android Studio</a>
+ - Java Version 1.8 (Java 8)
+ - Gradle Version 7.3.3
+ - minSdk 29
+ - targetSdk 32
 
 ### Social Media :
 <p align="left">
