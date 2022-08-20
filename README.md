@@ -4,7 +4,7 @@
       
 ### Software :
 
- - <a href="https://developer.android.com/studio" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/150/000000/android-studio--v3.png" height="30" width="30" />&nbsp;&nbsp;&nbsp;IntelliJ IDEA Community Edition 2021.2.3.</a>
+ - <a href="https://developer.android.com/studio" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/150/000000/android-studio--v3.png" height="30" width="30" />&nbsp;&nbsp;&nbsp;Android Studio</a>
 
 ### Social Media :
 <p align="left">
