@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Membuat Color State List Resource
+    dimana ketika object ditekan maka warnanya kuning, namun ketika focus ke object maka warnanya
+    putih, dan background dari object adalah merah, atau ketika tidak menambahkan state-nya(default)
+    maka warna itu menjadi background.
+-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#FFFF00" android:state_pressed="true"/>
+    <item android:color="#FFFFFF" android:state_focused="true"/>
+    <item android:color="@color/red"/>
+</selector>

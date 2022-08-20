@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Membuat String Resources
+    <integer name="maxPage">100</integer>
+
+    // Membuat String Array Resource
+    <integer-array name="numbers">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </integer-array>
+
+    // Membuat Boolean resources
+    <bool name="isProductionMode">true</bool>
+
+    // Membuat color resources (Red)
+    <color name="red">#FF0000</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    // Membuat String Resources
+    <string name="app_name">Resource</string>
+    <string name="nameEditText">Name :</string>
+    <string name="sayHelloButton">Say Hello</string>
+
+    // Menggunakan format String parameternya boleh lebih dari satu.
+    <string name="sayHelloTextView">Hello %1$s %2$s</string>
+
+    // Membuat String Array Resource
+    <string-array name="names">
+        <item>Suardi</item>
+        <item>Daud</item>
+        <item>Manda</item>
+    </string-array>
+
+
+</resources>

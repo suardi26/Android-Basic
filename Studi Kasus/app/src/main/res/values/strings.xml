@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Studi Kasus</string>
+    <string name="computer_name">COMPUTER : </string>
+    <string name="you">YOU : </string>
+    <string name="result">RESULT : </string>
+</resources>

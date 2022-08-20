@@ -1,0 +1,12 @@
+<resources>
+    // Membuat resource menggunakan bahasa indonesia dengan fitur Localization.
+    // Membuat String Resources
+    <string name="app_name">Resource</string>
+    <string name="nameEditText">Nama :</string>
+    <string name="sayHelloButton">Katakan Hallo</string>
+
+    // Menggunakan format String parameternya boleh lebih dari satu.
+    <string name="sayHelloTextView">Halo %1$s</string>
+
+
+</resources>
